@@ -1,0 +1,16 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'IosCalenderTask' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+pod 'Alamofire'
+pod 'SwiftyJSON'
+pod 'SDWebImage', '~> 4.0'
+pod 'iOSDropDown', '~> 0.2.6'
+pod 'SkyFloatingLabelTextField'
+pod 'MaterialComponents/Snackbar', '~> 68.1.0'
+pod 'MaterialComponents/Snackbar+ColorThemer', '~> 68.1.0'
+
+end

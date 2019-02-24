@@ -1,0 +1,84 @@
+PODS:
+  - Alamofire (4.8.1)
+  - iOSDropDown (0.2.7)
+  - MaterialComponents/AnimationTiming (68.1.0)
+  - MaterialComponents/Buttons (68.1.0):
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Math
+    - MaterialComponents/private/Shapes
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Typography
+    - MDFInternationalization
+    - MDFTextAccessibility
+  - MaterialComponents/Ink (68.1.0):
+    - MaterialComponents/private/Math
+  - MaterialComponents/OverlayWindow (68.1.0):
+    - MaterialComponents/private/Application
+  - MaterialComponents/private/Application (68.1.0)
+  - MaterialComponents/private/KeyboardWatcher (68.1.0):
+    - MaterialComponents/private/Application
+  - MaterialComponents/private/Math (68.1.0)
+  - MaterialComponents/private/Overlay (68.1.0)
+  - MaterialComponents/private/Shapes (68.1.0):
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+  - MaterialComponents/schemes/Color (68.1.0)
+  - MaterialComponents/ShadowElevations (68.1.0)
+  - MaterialComponents/ShadowLayer (68.1.0):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/Snackbar (68.1.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Buttons
+    - MaterialComponents/OverlayWindow
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/KeyboardWatcher
+    - MaterialComponents/private/Overlay
+    - MaterialComponents/Typography
+  - "MaterialComponents/Snackbar+ColorThemer (68.1.0)":
+    - MaterialComponents/schemes/Color
+    - MaterialComponents/Snackbar
+  - MaterialComponents/Typography (68.1.0):
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/Math
+  - MDFInternationalization (2.0.0)
+  - MDFTextAccessibility (2.0.0)
+  - SDWebImage (4.4.4):
+    - SDWebImage/Core (= 4.4.4)
+  - SDWebImage/Core (4.4.4)
+  - SkyFloatingLabelTextField (3.6.0)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - iOSDropDown (~> 0.2.6)
+  - MaterialComponents/Snackbar (~> 68.1.0)
+  - "MaterialComponents/Snackbar+ColorThemer (~> 68.1.0)"
+  - SDWebImage (~> 4.0)
+  - SkyFloatingLabelTextField
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - iOSDropDown
+    - MaterialComponents
+    - MDFInternationalization
+    - MDFTextAccessibility
+    - SDWebImage
+    - SkyFloatingLabelTextField
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  iOSDropDown: 7a4cfc67d5166f319858747b63cd2f7760c4fb4b
+  MaterialComponents: 9090ac82784a9c031ff62a44d3d9880143029d63
+  MDFInternationalization: 010097556d6b09d2c4ea38e0820ea6d37be6a314
+  MDFTextAccessibility: 85c09a1bd9c321f494348e632a25063bcda35a53
+  SDWebImage: c00ec18ab25d10e5ffac109b0f78d1b4341c9691
+  SkyFloatingLabelTextField: 38164979b79512f9ff9288ad8acfc4bbf5d843e3
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: feddf049c938a27b1397e538a4fd4f0401ebfae5
+
+COCOAPODS: 1.5.3
