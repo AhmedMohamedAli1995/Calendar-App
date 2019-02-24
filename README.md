@@ -1,5 +1,6 @@
 # Calendar-App
-Calendar with time line iOS application  swift4
+-Calendar with time line iOS application 
+-Swift 4 
 # Feature
 - User can signup.
 - User can view calendar with time-line.
